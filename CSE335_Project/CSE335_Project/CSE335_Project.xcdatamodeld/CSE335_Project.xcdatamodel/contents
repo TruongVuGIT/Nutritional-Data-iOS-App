@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="16B2555" minimumToolsVersion="Automatic">
+    <entity name="NutritionEntity" representedClassName="CSE335_Project.NutritionEntity" syncable="YES">
+        <attribute name="caloriesAmount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fatAmount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="itemName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sodiumAmount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sugarAmount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="upcCode" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="NutritionEntity" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>
